@@ -1,1 +1,2 @@
+#!/bin/bash
 ut -d'/' -f1 | rev
